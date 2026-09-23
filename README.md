@@ -4,6 +4,8 @@ I am a 2nd year MSci Theoretical Physics student @ UCL.
 
 I've always had a particular fascination towards the developing future of the Quantum Computing world, an interest beginning from reading the book "Quantum Computing for Dummies", which I was at the time.
 
+Over the summer, I enjoyed viewing many other public repos and reading others research papers, inspiring me to create my own projects :)
+
 ---
 
 ### My Projects
