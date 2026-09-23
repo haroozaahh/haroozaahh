@@ -20,7 +20,7 @@ I've always had a particular fascination towards the developing future of the Qu
 
 - **Languages:** Python, Wolfram Mathematica
 - **Libraries:** Qiskit, NumPy, Pandas, Matplotlib
-- **Tools:** Git, GitHub, VS Code]
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
