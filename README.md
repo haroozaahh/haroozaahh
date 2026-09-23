@@ -6,7 +6,7 @@ I've always had a particular fascination towards the developing future of the Qu
 
 ---
 
-### 🚀 My Projects
+### My Projects
 
 - **Classical vs Quantum Otto Engines** — Modelled finite-time classical and quantum Otto cycles to compare their efficiency and power across varying cycle times, investigating regimes in which quantum dynamics can provide a theoretical performance advantage.
 
@@ -16,15 +16,14 @@ I've always had a particular fascination towards the developing future of the Qu
 
 ---
 
-### 🛠 Tech Stack
+### Skills
 
-- **Languages:** Python, C++, Wolfram Mathematica
+- **Languages:** Python, Wolfram Mathematica
 - **Libraries:** Qiskit, NumPy, Pandas, Matplotlib
-- **Tools:** Git, GitHub, VS Code, Jupyter
+- **Tools:** Git, GitHub, VS Code]
 
 ---
 
 ### 📫 Get In Touch
 
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
+- **Email:** haroon.rasool.25@ucl.ac.uk
