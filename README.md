@@ -6,6 +6,7 @@ I've always had a particular fascination towards the developing future of the Qu
 
 Over the summer, I enjoyed viewing many other public repos and reading others research papers, inspiring me to create my own projects :)
 
+All projects are done independently! 
 ---
 
 ### My Projects
